@@ -4,6 +4,7 @@ import { By } from '@angular/platform-browser';
 import { DebugElement } from '@angular/core';
 
 import { RecetaDetailComponent } from './receta-detail.component';
+import { RecetaDetail } from '../receta-detail';
 
 describe('RecetaDetailComponent', () => {
   let component: RecetaDetailComponent;
